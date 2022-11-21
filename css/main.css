@@ -60,7 +60,7 @@ body::-webkit-scrollbar {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	transition: var(--transition), opacity 0.75 ease;
+	transition: var(--transition), opacity 1.25s ease;
 	will-change: transform;
 	transform-style: preserve-3d;
 }
